@@ -6,6 +6,7 @@ This project is a part of the collaboration between Water Point Data Exchange (w
 A sample of the dataset is available in `data/wpdx_sample_data.csv`.
 Complete dataset can be downloaded from [here](https://drive.google.com/open?id=1C61ZTKyXnuEKE72C-KwYbD5Jw4j5PcAP).
 
+Data Dictionary is available [here](https://drive.google.com/file/d/1Y5n1YZ8F84Ojlyr02JoD4mzDhfCf3e3_/view)
 ### Objective
 More than 1000 types of water_tech are provided in the raw dataset. Aim to reduce the number of levels by grouping similar water_tech based on the description.
 
